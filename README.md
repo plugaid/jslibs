@@ -1,4 +1,4 @@
 jslibs
 ======
 
-js libraries
+js libs
